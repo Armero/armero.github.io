@@ -4,7 +4,7 @@ This is my first GitHub Pages website.
 
 ## About me
 
-I'm Marc, and this website is powered by GitHub Pages using the Slate theme.
+I'm Armero, and this website is powered by GitHub Pages using the Slate theme.
 
 ### Projects
 
